@@ -7,9 +7,9 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Ссылка на 1 дефект](https://github.com/Yana-85/Project-1-Java/issues/1)
-* [Ссылка на 2 дефект](https://github.com/Yana-85/Project-1-Java/issues/2)
-* [Ссылка на 3 дефект](https://github.com/Yana-85/Project-1-Java/issues/3)
+* [Отображается pезультат "Fail" в консоли после запуска кода (карта American Express)](https://github.com/Yana-85/Project-1-Java/issues/1)
+* [Отображается pезультат "Fail" в консоли после запуска кода (карта VISA)](https://github.com/Yana-85/Project-1-Java/issues/2)
+* [Отображается pезультат "Fail" в консоли после запуска кода (карта JCB)](https://github.com/Yana-85/Project-1-Java/issues/3)
 
 ## Описание процесса тестирования
 
